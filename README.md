@@ -1,6 +1,3 @@
-## Intelli ChatBot 
-  is an AI bases Data Analysis platform where I have used the power of excel spreadhsheet for better data visualization as compared to jupyter nootbooks and used panda's heavy 
-  computational power to make analysis faster. This platform uses AI to generate code and do data analysis, shows the result on a spreadsheet all with one prompt. So non coders can also 
-  use this tool to do analysis there data. User can also open jupyter notebook online, the spreadsheet data will automatically be loaded into a dataframe with the help of AI and the code
-  will be copied to jupyter notebook cell, so that you can right away start analysis on your data. After you have finished analysis you can simply see your resultant df on the worksheet 
-  online. 
+## Intelli ChatBot
+
+is an AI based Data analysis platform in which I leveraged the capabilities of excel spreadsheets for better data presentation than jupyter notebooks and Pandas' massive computational capacity to accelerate analysis. With just one query, this platform leverages AI to build code, analyze data, and display the results on a spreadsheet. Thus, non-programmers can also analyze their data with this tool. The user may also access Jupyter Notebook online. From there, they can begin analyzing their data immediately away. AI will automatically load the spreadsheet data into a dataframe and copy the code to a Jupyter Notebook cell. You may easily view your results df on when you have completed your analysis.
