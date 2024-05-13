@@ -1,0 +1,80 @@
+.container {
+  position: relative;
+}
+
+.spreadsheet {
+  width: 100%;
+  height: 90vh; 
+  background-color: lightblue;
+  margin-top: 40px;
+}
+
+.codebox {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 670px;
+  height: 90vh; 
+  background-color:#fff; 
+  padding: 10px;
+  box-sizing: border-box;
+  z-index: 10000;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+
+.code-editor {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.code-editor__textarea,
+.code-editor__output {
+  flex: 1;
+}
+
+.code-editor__textarea {
+  padding-top: 10px;
+  width: 100%;
+}
+
+.textarea {
+  width: 100%;
+  height: 80%;
+  resize: none;
+  outline: none;
+  outline-color: none;
+  border: none;
+  background-color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+  box-sizing: border-box;
+  color: #333333;
+  font-weight: 500;
+}
+
+.input-container {
+  display: flex;
+}
+
+.input-container input {
+  flex: 1;
+  height: 35px;
+  padding-left: 10px;
+}
+
+.code-editor__output {
+  padding: 10px;
+}
+
+.code-editor__output pre {
+  white-space: pre-wrap;
+}
+
+.close-icon{
+ border: none;
+ background: none;
+ position: absolute;
+ right: 0;
+}

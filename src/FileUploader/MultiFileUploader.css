@@ -1,0 +1,22 @@
+.multi-file-uploader {
+    margin-bottom: 20px;
+  }
+  
+  .file-input {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .selected-files-header {
+    margin-bottom: 5px;
+  }
+  
+  .file-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .file-item {
+    margin-bottom: 5px;
+  }
+  
